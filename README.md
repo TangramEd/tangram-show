@@ -26,7 +26,6 @@ O Tangram é uma plataforma abrangente de tecnologia educacional projetada para 
 - **Aplicativo Mobile**: Aplicativo nativo para iOS e Android
 - **Plataforma Web**: Aplicação web responsiva para acesso desktop e tablet
 - **Back Office**: Portal administrativo para educadores e administradores
-- **Fluxo de Registro**: Experiência de integração simplificada para todos os tipos de usuários
 
 ## 🏗️ Arquitetura da Plataforma
 
@@ -34,33 +33,24 @@ O Tangram é uma plataforma abrangente de tecnologia educacional projetada para 
 
 #### 📱 **Aplicativo Mobile** (`tangramapp`)
 - App mobile multiplataforma em React Native
-- Experiências de aprendizado offline
 - Notificações push e recursos de engajamento
 - Interface intuitiva otimizada para aprendizado móvel
 
 #### 🌐 **Plataforma Web** (`tangramwebapp`)
 - Aplicação web responsiva desenvolvida em Next.js
-- Recursos de colaboração em tempo real
 - Módulos de aprendizado interativos
 - Capacidades de Progressive Web App
 
 #### ⚙️ **Backend API** (`tangramapi`)
 - API robusta em NestJS servindo todas as plataformas
-- Arquitetura escalável de microsserviços
 - Sincronização de dados em tempo real
 - Segurança avançada e autenticação
 
 #### 👨‍💼 **Back Office** (`tangrambackofficeweb`)
 - Dashboard administrativo para educadores
 - Ferramentas de analytics e relatórios
-- Gerenciamento de usuários e criação de conteúdo
 - Administração de escolas e equipes
 
-#### 📝 **Sistema de Registro** (`register-flow`)
-- Integração simplificada de usuários
-- Processo de registro multi-etapas
-- Capacidades de integração institucional
-- Gerenciamento flexível de funções de usuário
 
 ### 🛠️ Stack Tecnológica
 
@@ -96,12 +86,10 @@ O Tangram é uma plataforma abrangente de tecnologia educacional projetada para 
 - 🎮 **Desafios Gamificados**: Conteúdo educacional envolvente com mecânicas de jogos
 - 🏆 **Sistema de Conquistas**: Reconhecimento e recompensas por realizações de aprendizado
 - 👫 **Aprendizado Social**: Recursos colaborativos para aprender com colegas
-- 📱 **Mobile-First**: Acesso a materiais de aprendizado a qualquer hora, em qualquer lugar
 
 ### Para Administradores
 - 🏢 **Suporte Multi-Escolas**: Gerenciar múltiplas instituições educacionais
 - 📈 **Métricas de Performance**: Analytics detalhados e capacidades de relatórios
-- ⚙️ **Configuração do Sistema**: Opções flexíveis de configuração da plataforma
 - 🔐 **Gerenciamento de Segurança**: Autenticação e autorização avançadas de usuários
 
 ## 🌍 Impacto e Benefícios
@@ -144,19 +132,5 @@ Interessado em trazer o Tangram para sua instituição educacional? Entre em con
 
 ## 📞 Contato e Suporte
 
-- **Website**: [www.tangram-edu.com](https://www.tangram-edu.com)
-- **Email**: contato@tangram-edu.com
-- **Suporte**: suporte@tangram-edu.com
-- **Vendas**: vendas@tangram-edu.com
-
----
-
-## 📄 Licença
-
-Este projeto é um software proprietário desenvolvido para instituições educacionais. Entre em contato conosco para informações sobre licenciamento.
-
----
-
-**Construído com ❤️ para o futuro da educação**
-
-*Tangram - Onde o aprendizado encontra a inovação*
+- **Website**: [tangram](https://www.tangrameducacao.com/)
+- **Número**: (11) 91211-5444
